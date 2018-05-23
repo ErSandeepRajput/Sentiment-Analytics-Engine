@@ -4,6 +4,7 @@
 
 <h2><b>Sentiment Analytics Engine</b></h2>
 <p>The <b>Sentiment Analysis Engine</b> is a specialized classification engine used to identify and evaluate subjective patterns and expressions of sentiment within textual content. The analysis is performed at the topic, sentence, and document level and is configured to recognize whether portions of text are factual or subjective and, in the latter case, if the opinion expressed within these pieces of content are positive, negative, mixed, or neutral.</p>
-<p>Combining machine learning with natural language processing techniques on top of <u>WhatsApp<u>, the Sentiment Analysis Engine module is one of the most powerful engines available out of the box.  With full support of English, users can spot where the subjectivity lies within their content and identify trends on topics, brands, people and more, regardless of the language.</p>
+<p>Combining machine learning with natural language processing techniques on top of <u>WhatsApp</u>, the Sentiment Analysis Engine module is one of the most powerful engines available out of the box.  With full support of English, users can spot where the subjectivity lies within their content and identify trends on topics, brands, people and more, regardless of the language.</p>
+
 
 
