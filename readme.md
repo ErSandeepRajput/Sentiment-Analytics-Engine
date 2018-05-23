@@ -6,5 +6,16 @@
 <p>The <b>Sentiment Analysis Engine</b> is a specialized classification engine used to identify and evaluate subjective patterns and expressions of sentiment within textual content. The analysis is performed at the topic, sentence, and document level and is configured to recognize whether portions of text are factual or subjective and, in the latter case, if the opinion expressed within these pieces of content are positive, negative, mixed, or neutral.</p>
 <p>Combining <b>Machine Learning</b> with <b>Natural Language Processing</b> techniques on top of <b>WhatsApp</b>, the Sentiment Analysis Engine module is one of the most powerful engines available out of the box.  With full support of English, users can spot where the subjectivity lies within their content and identify trends on topics, brands, people and more, regardless of the language.</p>
 
-
-
+<h2><b>Updates</b></h2>
+<p>Notification on messages receipt</p>
+<p>Get contacts statuses</p>
+<p>Get contacts profile picture (also from groups)</p>
+<p>Set profile picture (also from groups)</p>
+<p>Send videos </p>
+<p>Add support for @tag messages</p>
+<p>Add support for reply messages</p>
+<p>Add support for receiving images</p>
+<p>Add support for big receiving big files (downloading and decryption done in chunks)</p>
+<p>Add support for sending images</p>
+<p>Add support for encrypting images in chunks</p>
+<p>Add pickle support to remember the messages when mac its turned off</p>
